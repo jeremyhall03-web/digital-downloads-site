@@ -1,0 +1,5 @@
+# robots.txt for digital downloads site
+User-agent: *
+Allow: /
+
+Sitemap: /sitemap.xml
