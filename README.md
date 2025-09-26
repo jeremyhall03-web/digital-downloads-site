@@ -1,3 +1,3 @@
-# Digital Downloads Site
+# Finance for You
 
-A minimal Astro project for a digital-downloads storefront.
+A minimal Astro project for a finance micro-tools storefront.
